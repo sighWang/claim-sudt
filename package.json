@@ -1,0 +1,16 @@
+{
+  "name": "claim-sudt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ckb-lumos/base": "^0.17.0-rc8",
+    "@ckitjs/ckit": "^0.1.0",
+    "@lay2/pw-core": "0.4.0-alpha.12"
+  }
+}
